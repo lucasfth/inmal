@@ -47,3 +47,7 @@
         * Generative models can utilize PCA to reconstruct or generate data efficiently.
         * Eigenvalues and the covariance matrix provide critical insights into data variance and structure.
     * Emphasize how Mandatory Assignment 2 demonstrates these concepts in practical settings.
+
+## Notes
+
+The model can benefit to train on a data set which has had it dimensions reduced by PCA due to reduced complexity and hopefully less noise.

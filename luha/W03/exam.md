@@ -31,3 +31,9 @@
 5. Conclusion (30 seconds)
     * Summarize the utility of matrices in ML for transformations, basis representation, and solving equations.
     * Emphasize how understanding these operations is foundational for advanced techniques like PCA and regression.
+
+## Notes
+
+A linear equation represents a straight line in 2D.
+In 3D, it is instead a hyperplane (meaning a plane in (n-1)-dimensional space).
+A hyperplane can be created with 1 independent vector and n-1 dependent vectors.

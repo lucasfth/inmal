@@ -41,3 +41,8 @@
         * Linear transformations enable core operations in ML and geometry.
         * Affine transformations and homogeneous coordinates provide a bridge to non-linear systems.
     * Emphasize the importance of understanding these transformations for applications like image processing, PCA, and regression.
+
+## Notes
+
+Homogenous coordinates are used for translating from a lower-dimensional space to a higher-dimensional space.
+This is done by adding an extra dimension to the vector and setting it to 1.

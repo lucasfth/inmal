@@ -20,3 +20,5 @@
 5. Conclusion (1 minute)
     * Summarize the importance of understanding vectors and metrics for ML tasks.
     * Emphasize practical takeaways: how these operations enable effective feature representation and evaluation.
+
+## Notes
